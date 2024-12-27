@@ -1,10 +1,10 @@
-Cosa puoi fare con il tag NFC?
+# Cosa puoi fare con il tag NFC?
 - Usalo per condividere contatti.
 - Collega il tuo telefono al Wi-Fi.
 - Condividere un link utile o un messaggio personalizzato.
 - Comandare il tuo impianto domotico di casa.
 
-Come riprogrammare il tag NFC? 
+# Come riprogrammare il tag NFC? 
 - Scarica l'app gratuita "NFC Tools" da Google Play Store o Apple App Store.
 https://play.google.com/store/apps/details?id=com.wakdev.wdnfc
 - Apri l'app e avvicina il tag NFC al tuo telefono.
@@ -13,13 +13,15 @@ https://play.google.com/store/apps/details?id=com.wakdev.wdnfc
 - Nota importante: Questo tag NFC ha una memoria di 492 byte.
 - Non gettarlo, potrebbe essere utile anche in futuro!
 
-Di seguito un esempio più dettagliato:
+### Di seguito un esempio più dettagliato:
 
 Apri l'app NFC Tools comparirà come segue:
 ![1000031045](https://github.com/user-attachments/assets/48eca51a-b4bd-4354-8b15-d6a76bfb6f61)
 In alto nell'applicazione sono presenti nel menù le operazioni di:
 - Lettura: leggere informazioni del tag
+  
 - Scrittura: scrivere informazioni nel tag
+  
 - Altro: varie operazioni sui tag
 ![1000031038](https://github.com/user-attachments/assets/e882e722-5051-44d6-862a-970035b02206)
 - Tasks: scrivere comandi o azioni nel tag
@@ -39,6 +41,9 @@ In alto nell'applicazione sono presenti nel menù le operazioni di:
 - Ad operazione completata in caso di successo otterrai una schermata di questo tipo:
 ![1000031047](https://github.com/user-attachments/assets/0c35feba-1a6b-4432-8e1f-e9a3b43540eb)
 
+### Chiudi tutto, scansiona il tag NFC al tuo telefono e come per magia il tuo contatto verrà condiviso!
+
 Eh ricorda..
 
-*L'informatica non è solo codice. Ma l'arte di semplificare la vita con un tocco di ingegno! Grazie per aver partecipato alla mia festa di laurea! 🎓*
+# *L'informatica non è solo codice. Ma l'arte di semplificare la vita con un tocco di ingegno!💻* 
+  *Grazie per aver partecipato alla mia festa di laurea! 🎓*
