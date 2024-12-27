@@ -5,7 +5,9 @@ Cosa puoi fare con il tag NFC?
 - Comandare il tuo impianto domotico di casa.
 
 Come riprogrammare il tag NFC? 
-- Scarica l'app gratuita "NFC Tools" da Google Play Store o Apple App Store.![1000031043](https://github.com/user-attachments/assets/5c57fb5c-fa23-4568-b5d8-afd48950c09c)
+- Scarica l'app gratuita "NFC Tools" da Google Play Store o Apple App Store.
+https://play.google.com/store/apps/details?id=com.wakdev.wdnfc
+![1000031043](https://github.com/user-attachments/assets/5c57fb5c-fa23-4568-b5d8-afd48950c09c)
 ![1000031042](https://github.com/user-attachments/assets/e2e379da-1d70-4313-97e4-2db7f2df65e3)
 ![1000031044](https://github.com/user-attachments/assets/2fd5531b-2cef-47d4-a6d2-3c66aed02ecb)
 ![1000031040](https://github.com/user-attachments/assets/e323c7dd-eda2-48e8-80df-1d1249dae63c)
