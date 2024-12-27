@@ -7,15 +7,16 @@ Cosa puoi fare con il tag NFC?
 Come riprogrammare il tag NFC? 
 - Scarica l'app gratuita "NFC Tools" da Google Play Store o Apple App Store.
 https://play.google.com/store/apps/details?id=com.wakdev.wdnfc
-![1000031043](https://github.com/user-attachments/assets/5c57fb5c-fa23-4568-b5d8-afd48950c09c)
-![1000031042](https://github.com/user-attachments/assets/e2e379da-1d70-4313-97e4-2db7f2df65e3)
-![1000031044](https://github.com/user-attachments/assets/2fd5531b-2cef-47d4-a6d2-3c66aed02ecb)
-![1000031040](https://github.com/user-attachments/assets/e323c7dd-eda2-48e8-80df-1d1249dae63c)
-![1000031039](https://github.com/user-attachments/assets/928698eb-746e-4b20-bd0c-913f47bf0016)
-![1000031038](https://github.com/user-attachments/assets/8c05c93f-c8a9-4343-93b5-d06e943510e9)
-![1000031037](https://github.com/user-attachments/assets/728ee849-d5d0-413f-82dc-139de12bdfab)
-![1000031036](https://github.com/user-attachments/assets/cbdeaf01-6775-4a4a-9bef-e3392b14a527)
-![1000031035](https://github.com/user-attachments/assets/6b481920-cda8-4310-ab22-89285e8063ce)
+![1000031047](https://github.com/user-attachments/assets/0c35feba-1a6b-4432-8e1f-e9a3b43540eb)
+![1000031043](https://github.com/user-attachments/assets/c5c63d2f-b3cf-476f-9830-c982e4321955)
+![1000031038](https://github.com/user-attachments/assets/e882e722-5051-44d6-862a-970035b02206)
+![1000031040](https://github.com/user-attachments/assets/89001153-4cd1-43c0-8b86-4f840ef4397c)
+![1000031037](https://github.com/user-attachments/assets/6956ccec-2186-4986-8e1d-254cf0c10fff)
+![1000031042](https://github.com/user-attachments/assets/c0e5edf0-87c7-4f28-93be-e7103af987c9)
+![1000031044](https://github.com/user-attachments/assets/00a906f0-8248-4913-ad16-1d9df03a0874)
+![1000031046](https://github.com/user-attachments/assets/b9f9dc2d-867d-40a7-b13d-9c8c87201fb6)
+![1000031045](https://github.com/user-attachments/assets/48eca51a-b4bd-4354-8b15-d6a76bfb6f61)
+
 
 - Apri l'app e avvicina il tag NFC al tuo telefono.
 - La password da inserire è riportata sotto al QR Code.
