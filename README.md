@@ -8,7 +8,7 @@
 - Scarica l'app gratuita "NFC Tools" da Google Play Store o Apple App Store.
 https://play.google.com/store/apps/details?id=com.wakdev.wdnfc
 - Apri l'app e avvicina il tag NFC al tuo telefono.
-- La password da inserire è riportata sotto al QR Code.
+- La password da inserire e rimuovere prima della successiva scrittura è riportata sotto al QR Code.
 - Segui le istruzioni per scrivere o leggere il contenuto.
 - Nota importante: Questo tag NFC ha una memoria di 492 byte.
 - Non gettarlo, potrebbe essere utile anche in futuro!
@@ -22,7 +22,7 @@ In alto nell'applicazione sono presenti nel menù le operazioni di:
   
 - Scrittura: scrivere informazioni nel tag
   
-- Altro: varie operazioni sui tag
+- Altro: varie operazioni sui tag (Rimuovi la password prima di modificarlo!)
 ![1000031038](https://github.com/user-attachments/assets/e882e722-5051-44d6-862a-970035b02206)
 - Tasks: scrivere comandi o azioni nel tag
 ![1000031040](https://github.com/user-attachments/assets/89001153-4cd1-43c0-8b86-4f840ef4397c)
